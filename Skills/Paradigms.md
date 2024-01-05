@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
+  - Functional programming: 👂 heard
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 👂 heard
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Asyncronous programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Reactive programming
-  - FRP (Functional-reactive)
+  - FRP (Functional-reactive): 👂 heard
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
 - OOP basics
-  - constructor
+  - constructor: 🎓 known
   - new
-  - Static method
-  - Method
-  - Async method
+  - Static method: 🎓 known
+  - Method: 👂 heard
+  - Async method: 👂 heard
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
   - Field declarations
   - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
+  - Parent class: 👂 heard
+  - Polymorphism: 👂 heard
+  - Abstract class: 👂 heard
   - Interface
   - Encapsulation
   - Hidden class
-  - Object form
+  - Object form: 👂 heard
   - instance
-  - Introspection
+  - Introspection: 👂 heard
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
   - Adapter
-  - Observer
+  - Observer: 👂 heard
   - Strategy
   - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 🎓 known
+  - Iterator: 🎓 known
   - State
   - Bridge
   - Builder
-  - Prototype
-  - Composite
-  - Decorator
+  - Prototype: 🎓 known
+  - Composite: 👂 heard
+  - Decorator: 👂 heard
   - Flyweight
-  - Mediator
+  - Mediator: 👂 heard
   - Memento
-  - Template Method
+  - Template Method: 🎓 known
   - Visitor
