@@ -10,13 +10,13 @@
   - expression: 🖐️ used
   - heap: 🖐️ used
   - function: 🖐️ used
-  - procedure: 🖐️ usedv
+  - procedure: 🖐️ used
   - method: 🖐️ used
   - class: 🖐️ used
   - prototype: 🖐️ used
   - event: 🖐️ used
   - type: 🖐️ used
-  - primitive types
+  - primitive types: 🖐️ used
   - reference types: 👂 heard
   - flag: 🖐️ used
   - lexical scope: 👂 heard
