@@ -15,30 +15,30 @@
   - destructuring: 🎓 known
   - generator: 🎓 known
   - iterator: 🎓 known
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
   - chaining: 🎓 known
   - optional chaining: 👂 heard
   - IIFE: 👂 heard
   - global: 🎓 known
   - globalThis: 🎓 known
-  - window: 👂 heard
-  - getters and setters
+  - window: 🎓 known
+  - getters and setters: 🎓 known
   - __proto__: 👂 heard
   - prototype: 👂 heard
   - equality operators: 🎓 known
   - logical operators: 🎓 known
   - bitwise operators: 🎓 known
   - ternary operator: 🎓 known
-  - void: 👂 heard
-  - yield: 👂 heard
-  - await: 👂 heard
+  - void: 🎓 known
+  - yield: 🎓 known
+  - await: 🎓 known
   - template literal: 👂 heard
   - strict mode: 🎓 known
   - delete: 🎓 known
-  - in: 🎓 known
+  - in: 🖐️ used
   - super: 🎓 known
-  - Symbol: 🎓 known
+  - Symbol: 🖐️ used
   - Reflect: 🎓 known
 - Statements
   - if: 🖐️ used
@@ -47,17 +47,17 @@
   - for: 🖐️ used
   - for..in: 🖐️ used
   - for..of: 🖐️ used
-  - for await: 🎓 known
+  - for await: 🖐️ used
   - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
   - import: 🖐️ used
   - export: 🖐️ used
   - label: 👂 heard
-  - try..catch: 👂 heard
+  - try..catch: 🖐️ used
   - switch: 🖐️ used
   - class: 🖐️ used
-  - new Error: 👂 heard
+  - new Error: 🖐️ used
   - with: 🖐️ used
 - Functions
   - function declaration: 👂 heard
@@ -67,23 +67,23 @@
   - functional object: 👂 heard
 - Data structures
   - Array: 🎓 known
-  - mixin
-  - extend
-  - typed arrays
-  - Map: 👂 heard
-  - Set: 👂 heard
-  - undefined: 👂 heard
-  - null: 👂 heard
-  - Proxy: 👂 heard
-  - weak collections
+  - mixin: 🖐️ used
+  - extend: 🖐️ used
+  - typed arrays: 🎓 known
+  - Map: 🎓 known
+  - Set: 🎓 known
+  - undefined: 🎓 known
+  - null: 🎓 known
+  - Proxy: 🎓 known
+  - weak collections: 🎓 known
   - timers: 🎓 known
-  - EventEmitter
+  - EventEmitter: 🎓 known
   - RegExp: 👂 heard
-  - Date: 👂 heard
+  - Date: 🎓 known
   - BigInt: 👂 heard
 - Infrastructure
   - V8: 👂 heard
   - Node.js: 🎓 known
   - npm: 🎓 known
-  - prettier: 👂 heard
-  - MDN: 👂 heard
+  - prettier: 🎓 known
+  - MDN: 🎓 known
