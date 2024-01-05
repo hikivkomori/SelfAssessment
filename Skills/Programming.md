@@ -78,7 +78,7 @@
   - serialization: 🎓 known
   - string parsing: 🎓 known
 - Process & style
-  - compiler: 🖐️ used
+  - compiler: 🔬 researched
   - transpiler: 👂 heard
   - linter: 👂 heard
   - polyfill: 👂 heard
@@ -89,7 +89,7 @@
   - antipatterns: 🖐️ used
   - paradigm: 👂 heard
   - algorithm: 🖐️ used
-  - magic numbers: 🖐️ used
+  - magic numbers: 🔬 researched
   - hardcode: 👂 heard
   - complexity: 👂 heard
   - decomposition: 👂 heard
@@ -102,5 +102,5 @@
   - exception: 👂 heard
   - return early: 👂 heard
   - unittest: 👂 heard
-  - git: 🖐️ used
-  - github: 🖐️ used
+  - git: 🔬 researched
+  - github: 🔬 researched
